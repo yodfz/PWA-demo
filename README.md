@@ -7,10 +7,12 @@ node server.js
 
 
 ### 参考资料
+https://github.com/SangKa/PWA-Book-CN
+
 https://developers.google.com/web/progressive-web-apps/checklist
 
 https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0
 
-https://lzw.me/a/pwa-service-worker.html#3.1 %E6%B3%A8%E5%86%8C
+https://lzw.me/a/pwa-service-worker.html
 
 (移动端兼容性)[https://lavas.baidu.com/ready]
