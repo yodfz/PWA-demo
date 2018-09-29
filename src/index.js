@@ -8,3 +8,8 @@ if ('serviceWorker' in navigator) {
         console.log('ServiceWorker registration failed: ', err);
     });
 }
+
+// 接受postMessage
+navigator.serviceWorker.addEventListener('message', function (event) {
+    console.log(event.data)
+});
